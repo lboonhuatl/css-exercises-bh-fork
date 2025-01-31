@@ -1,8 +1,7 @@
 div {
-    color: white
+    color: white;
     background-color: red;
-}
-
-p {
-    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
 }
